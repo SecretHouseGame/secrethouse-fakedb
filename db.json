@@ -8,6 +8,15 @@
       "canBuzz": true,
       "canBeBuzzed": true
    },
+   "anotherPlayer" : {
+      "id":3,
+      "name":"Charlene",
+      "avatar":"/assets/images/players/charlene.png",
+      "cagnotte":0,
+      "secret":"",
+      "canBuzz": false,
+      "canBeBuzzed": true
+   },
    "players" : [
       {
          "id":1,
