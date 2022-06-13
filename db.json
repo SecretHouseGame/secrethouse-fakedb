@@ -1,5 +1,14 @@
 {
-   "players":[
+   "currentPlayer" : {
+      "id":1,
+      "name":"Catherine",
+      "avatar":"/assets/images/players/catherine.png",
+      "cagnotte":0,
+      "secret":"",
+      "canBuzz": true,
+      "canBeBuzzed": true
+   },
+   "players" : [
       {
          "id":1,
          "name":"Catherine",
