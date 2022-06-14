@@ -159,5 +159,65 @@
       "targetPlayerId" : 15,
       "acterPlayerId" : 1,
       "secretGuessed" : "elle a fait le djihad"
-   }
+   },
+   "rooms" : [
+        {
+            "id": 1,
+            "name": "Chambre"
+        },
+        {
+            "id": 2,
+            "name": "Cuisine"
+        },
+        {
+            "id": 3,
+            "name": "Balcon"
+        },
+        {
+            "id": 4,
+            "name": "Salon"
+        },
+        {
+            "id": 5,
+            "name": "Confessionnal"
+        },
+        {
+            "id": 6,
+            "name": "Terrasse"
+        },
+        {
+            "id": 7,
+            "name": "Piscine"
+        }
+    ],
+   "roomGame" : [
+        {
+            "roomId": 1,
+            "gameId": 1
+        },
+        {
+            "roomId": 2,
+            "gameId": 1
+        },
+        {
+            "roomId": 3,
+            "gameId": 1
+        },
+        {
+            "roomId": 4,
+            "gameId": 1
+        },
+        {
+            "roomId": 5,
+            "gameId": 1
+        },
+        {
+            "roomId": 6,
+            "gameId": 1
+        },
+        {
+            "roomId": 7,
+            "gameId": 1
+        }
+    ]
 }
