@@ -163,31 +163,43 @@
    "rooms" : [
         {
             "id": 1,
-            "name": "Chambre"
+            "name": "Chambre",
+            "image": "/assets/images/rooms/chambre.png"
         },
         {
             "id": 2,
-            "name": "Cuisine"
+            "name": "Cuisine",
+            "image": "/assets/images/rooms/cuisine.png"
         },
         {
             "id": 3,
-            "name": "Balcon"
+            "name": "Balcon",
+            "image": "/assets/images/rooms/balcon.png"
         },
         {
             "id": 4,
-            "name": "Salon"
+            "name": "Salon",
+            "image": "/assets/images/rooms/salon.png"
         },
         {
             "id": 5,
-            "name": "Confessionnal"
+            "name": "Confessionnal",
+            "image": "/assets/images/rooms/confessionnal.png"
         },
         {
             "id": 6,
-            "name": "Terrasse"
+            "name": "Terrasse",
+            "image": "/assets/images/rooms/terrasse.png"
         },
         {
             "id": 7,
-            "name": "Piscine"
+            "name": "Piscine",
+            "image": "/assets/images/rooms/piscine.png"
+        },
+        {
+            "id": 8,
+            "name": "Salle de bain",
+            "image": "/assets/images/rooms/salle-de-bain.png"
         }
     ],
    "roomGame" : [
