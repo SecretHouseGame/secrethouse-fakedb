@@ -8,15 +8,6 @@
       "canBuzz": true,
       "canBeBuzzed": true
    },
-   "anotherPlayer" : {
-      "id":3,
-      "name":"Charlene",
-      "avatar":"/assets/images/players/charlene.png",
-      "cagnotte":0,
-      "secret":"",
-      "canBuzz": false,
-      "canBeBuzzed": true
-   },
    "players" : [
       {
          "id":1,
@@ -200,36 +191,6 @@
             "id": 8,
             "name": "Salle de bain",
             "image": "/assets/images/rooms/salle-de-bain.png"
-        }
-    ],
-   "roomGame" : [
-        {
-            "roomId": 1,
-            "gameId": 1
-        },
-        {
-            "roomId": 2,
-            "gameId": 1
-        },
-        {
-            "roomId": 3,
-            "gameId": 1
-        },
-        {
-            "roomId": 4,
-            "gameId": 1
-        },
-        {
-            "roomId": 5,
-            "gameId": 1
-        },
-        {
-            "roomId": 6,
-            "gameId": 1
-        },
-        {
-            "roomId": 7,
-            "gameId": 1
         }
     ]
 }
