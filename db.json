@@ -1,196 +1,197 @@
 {
-   "currentPlayer" : {
-      "id":1,
-      "name":"Catherine",
-      "avatar":"/assets/images/players/catherine.png",
-      "cagnotte":0,
-      "secret":"",
-      "canBuzz": true,
-      "canBeBuzzed": true
-   },
-   "players" : [
-      {
-         "id":1,
-         "name":"Catherine",
-         "avatar":"/assets/images/players/catherine.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":2,
-         "name":"Lucien",
-         "avatar":"/assets/images/players/lucien.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":3,
-         "name":"Charlene",
-         "avatar":"/assets/images/players/charlene.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": false,
-         "canBeBuzzed": true
-      },
-      {
-         "id":4,
-         "name":"Emeline",
-         "avatar":"/assets/images/players/emeline.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":5,
-         "name":"Esteban",
-         "avatar":"/assets/images/players/esteban.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": false
-      },
-      {
-         "id":6,
-         "name":"Julie",
-         "avatar":"/assets/images/players/julie.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":7,
-         "name":"Kamila",
-         "avatar":"/assets/images/players/kamila.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":8,
-         "name":"Louis",
-         "avatar":"/assets/images/players/louis.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":9,
-         "name":"Lucien",
-         "avatar":"/assets/images/players/lucien.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":10,
-         "name":"Lydia",
-         "avatar":"/assets/images/players/lydia.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":11,
-         "name":"Mickael",
-         "avatar":"/assets/images/players/mickael.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":12,
-         "name":"Nathan",
-         "avatar":"/assets/images/players/nathan.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":13,
-         "name":"Nicolas",
-         "avatar":"/assets/images/players/nicolas.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      },
-      {
-         "id":14,
-         "name":"Romain",
-         "avatar":"/assets/images/players/romain.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": false
-      },
-      {
-         "id":15,
-         "name":"Sabrina",
-         "avatar":"/assets/images/players/sabrina.png",
-         "cagnotte":0,
-         "secret":"",
-         "canBuzz": true,
-         "canBeBuzzed": true
-      }
-   ],
-   "buzz" : {
-      "buzzId" : 4545,
-      "targetPlayerId" : 15,
-      "acterPlayerId" : 1,
-      "secretGuessed" : "elle a fait le djihad"
-   },
-   "rooms" : [
-        {
-            "id": 1,
-            "name": "Chambre",
-            "image": "/assets/images/rooms/chambre.png"
-        },
-        {
-            "id": 2,
-            "name": "Cuisine",
-            "image": "/assets/images/rooms/cuisine.png"
-        },
-        {
-            "id": 3,
-            "name": "Balcon",
-            "image": "/assets/images/rooms/balcon.png"
-        },
-        {
-            "id": 4,
-            "name": "Salon",
-            "image": "/assets/images/rooms/salon.png"
-        },
-        {
-            "id": 5,
-            "name": "Confessionnal",
-            "image": "/assets/images/rooms/confessionnal.png"
-        },
-        {
-            "id": 6,
-            "name": "Terrasse",
-            "image": "/assets/images/rooms/terrasse.png"
-        },
-        {
-            "id": 7,
-            "name": "Piscine",
-            "image": "/assets/images/rooms/piscine.png"
-        },
-        {
-            "id": 8,
-            "name": "Salle de bain",
-            "image": "/assets/images/rooms/salle-de-bain.png"
-        }
-    ]
-}
+    "currentPlayer" : {
+       "id":1,
+       "name":"Catherine",
+       "avatar":"/assets/images/players/catherine.png",
+       "cagnotte":0,
+       "secret":"",
+       "canBuzz": true,
+       "canBeBuzzed": true
+    },
+    "players" : [
+       {
+          "id":1,
+          "name":"Catherine",
+          "avatar":"/assets/images/players/catherine.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":2,
+          "name":"Lucien",
+          "avatar":"/assets/images/players/lucien.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":3,
+          "name":"Charlene",
+          "avatar":"/assets/images/players/charlene.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": false,
+          "canBeBuzzed": true
+       },
+       {
+          "id":4,
+          "name":"Emeline",
+          "avatar":"/assets/images/players/emeline.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":5,
+          "name":"Esteban",
+          "avatar":"/assets/images/players/esteban.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": false
+       },
+       {
+          "id":6,
+          "name":"Julie",
+          "avatar":"/assets/images/players/julie.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":7,
+          "name":"Kamila",
+          "avatar":"/assets/images/players/kamila.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":8,
+          "name":"Louis",
+          "avatar":"/assets/images/players/louis.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":9,
+          "name":"Lucien",
+          "avatar":"/assets/images/players/lucien.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":10,
+          "name":"Lydia",
+          "avatar":"/assets/images/players/lydia.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":11,
+          "name":"Mickael",
+          "avatar":"/assets/images/players/mickael.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":12,
+          "name":"Nathan",
+          "avatar":"/assets/images/players/nathan.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":13,
+          "name":"Nicolas",
+          "avatar":"/assets/images/players/nicolas.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       },
+       {
+          "id":14,
+          "name":"Romain",
+          "avatar":"/assets/images/players/romain.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": false
+       },
+       {
+          "id":15,
+          "name":"Sabrina",
+          "avatar":"/assets/images/players/sabrina.png",
+          "cagnotte":0,
+          "secret":"",
+          "canBuzz": true,
+          "canBeBuzzed": true
+       }
+    ],
+    "buzz" : {
+       "buzzId" : 4545,
+       "targetPlayerId" : 15,
+       "acterPlayerId" : 1,
+       "secretGuessed" : "elle a fait le djihad"
+    },
+    "rooms" : [
+         {
+             "id": 1,
+             "name": "Chambre",
+             "image": "/assets/images/rooms/chambre.jpg"
+         },
+         {
+             "id": 2,
+             "name": "Cuisine",
+             "image": "/assets/images/rooms/cuisine.jpg"
+         },
+         {
+             "id": 3,
+             "name": "Balcon",
+             "image": "/assets/images/rooms/balcon.jpg"
+         },
+         {
+             "id": 4,
+             "name": "Salon",
+             "image": "/assets/images/rooms/salon.jpg"
+         },
+         {
+             "id": 5,
+             "name": "Confessionnal",
+             "image": "/assets/images/rooms/confessionnal.jpg"
+         },
+         {
+             "id": 6,
+             "name": "Terrasse",
+             "image": "/assets/images/rooms/terrasse.jpg"
+         },
+         {
+             "id": 7,
+             "name": "Piscine",
+             "image": "/assets/images/rooms/piscine.jpg"
+         },
+         {
+             "id": 8,
+             "name": "Salle de bain",
+             "image": "/assets/images/rooms/salle-de-bain.jpg"
+         }
+     ]
+ }
+ 
