@@ -50,7 +50,7 @@
           "name":"Esteban",
           "avatar":"/assets/images/players/esteban.png",
           "cagnotte":0,
-          "secret":"",
+          "secret":"N'aime pas les cerises",
           "canBuzz": true,
           "canBeBuzzed": false
        },
@@ -113,9 +113,9 @@
           "name":"Nathan",
           "avatar":"/assets/images/players/nathan.png",
           "cagnotte":0,
-          "secret":"",
+          "secret":"Est cannibale",
           "canBuzz": true,
-          "canBeBuzzed": true
+          "canBeBuzzed": false
        },
        {
           "id":13,
